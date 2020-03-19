@@ -58,10 +58,10 @@ function App() {
         <h2>Like/Dislike</h2>
       </div>
       <button className={"likeButton" + (likesBtnClicked && " liked")} onClick={changeLikesCount}>Like | 
-        <span className="likes-counter">{likesCount}</span>
+        <span className="likes-counter"> {likesCount}</span>
       </button>
       <button className={"dislikeButton" + (dislikesBtnClicked && " disliked")} onClick={changeDislikesCount}>Dislike | 
-      <span className="dislikes-counter">{dislikesCount}</span>
+      <span className="dislikes-counter"> {dislikesCount}</span>
       </button>
     </>
   );
