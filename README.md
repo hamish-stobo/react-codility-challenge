@@ -1,4 +1,4 @@
-like## Codeility test for TSG
+## Codeility test for TSG
 
 This codility test was completed for TSG.
 
