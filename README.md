@@ -1,6 +1,6 @@
 ## Codeility test for TSG
 
-This codeility test was completed for TSG.
+This codility test was completed for TSG.
 
 The original test:
 
