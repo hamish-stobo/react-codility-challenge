@@ -2,7 +2,7 @@
 
 This codility test was completed for TSG.
 
-After running `npm i` to install dependencies, run `npm star`t to start app. Run app in browser by visiting `localhost:3000`
+After running `npm i` to install dependencies, run `npm start` to start app. Run app in browser by visiting `localhost:3000`
 
 The original test:
 
